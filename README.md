@@ -1,8 +1,9 @@
 # Authentication System (Ongoing Major Project)
 
 ## Project Overview
+This repository contains the initial development phase of an ongoing backend major project built using Node.js, Express.js, MongoDB, and EJS. The project is currently in its foundation stage, where core functionalities such as user authentication, authorization, and secure user management are being implemented.
 
-This is an ongoing Node.js, Express.js, MongoDB, and EJS based authentication project. The goal of this project is to build a complete user management and authentication system with secure login and registration functionality.
+The complete project scope and advanced features are under active development and will be introduced progressively through future updates. This repository will continue to evolve as new modules, functionalities, and system components are added over time.
 
 ## Features Implemented
 
