@@ -40,17 +40,7 @@ project/
 └── README.md
 
 ## Upcoming Features
-
-* Create Posts
-* Edit Posts
-* Delete Posts
-* Image Upload
-* User Dashboard
-* Like and Comment System
-* Follow/Unfollow Users
-* Admin Panel
-* Responsive UI
-* Deployment
+yet not disclose
 
 ## Installation
 
