@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Users</title>
+<style>
+    button{
+      background-color: rgb(31, 96, 152) ;
+      background-color: rgb(31, 96, 152) ;
+       color: white;
+        border-radius:4px;
+          border-color: rgb(75, 75, 180);
+          border-color: whitesmoke;
+
+   height: 30px;
+    width: 100px;
+
+    }
+    button:hover{
+      background-color: lightcoral;
+      border-color: white;
+    }
+  </style>
+</head>
+<body>
+
+    <h1>All Registered Users</h1>
+
+    <% users.forEach(user => { %>
+
+        <h3>Name: <%= user.username %></h3>
+        <p>Email: <%= user.email %></p>
+      
+<a href="/logout">  <button > logout</button></a>
+       <a href="/home"><button>home</button></a>
+<hr>
+    <% }) %>
+ 
+</body>
+</html>
